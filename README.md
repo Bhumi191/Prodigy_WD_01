@@ -242,7 +242,7 @@ Possible improvements include:
 
 ## Author
 
-**Bhumi Rana**
+**Bhumi **
 
-B.Tech CSE
-Graphic Era Hill University
+
+
